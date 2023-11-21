@@ -1,4 +1,4 @@
-
+/* function to add eventlistner*/
 (function(){
     function Start() 
     {
